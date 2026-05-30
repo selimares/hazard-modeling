@@ -1,5 +1,24 @@
-# Hazard Modeling Concept
+# Hazard Modeling (Toy Research Framework)
 
-This project explores simplified models of hazard propagation and cascading effects in physical systems.
+## Objective
+This repository explores simplified computational models of hazard propagation, wave dynamics, and cascading failures in infrastructure-like systems.
 
-The goal is to build intuitive computational representations of how disturbances spread in a network or medium.
+## Structure
+
+- notes/ → theoretical assumptions and research ideas
+- toy_models/ → basic physical simulations
+- infrastructure_systems/ → simplified network-based failure models
+
+## Research Motivation
+Understanding how disturbances propagate in simplified systems can provide intuition for:
+- structural risk analysis
+- cascading failure mechanisms
+- multi-hazard interactions
+
+## Tools
+- Python
+- NumPy
+- Matplotlib
+
+## Status
+Early-stage exploratory research models.
